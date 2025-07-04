@@ -2,7 +2,7 @@ MYSQL_HOST: mysql.latha.site
 
 MYSQL_ROOT_USER: roboshop
 
-MYSQL_ROOT_PASSWORD: Roboshop@1
+MYSQL_ROOT_PASSWORD: RoboShop@1
 
 CART_HOST: cart.latha.site
 
