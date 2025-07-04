@@ -1,0 +1,9 @@
+CART_HOST: cart.latha.site
+
+USER_HOST: user.latha.site
+
+RABBITMQ_HOST: rabbitmq.latha.site
+
+RABBITMQ_USER: roboshop
+
+RABBITMQ_PASSWORD: roboshop123
