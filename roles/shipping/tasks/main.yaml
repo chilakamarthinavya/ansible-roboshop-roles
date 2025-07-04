@@ -14,7 +14,7 @@
   login_user: "{{MYSQL_ROOT_USER}}"
   login_password: "{{MYSQL_ROOT_PASSWORD}}"
   login_host: "{{MYSQL_HOST}}"
-  state: import
+  # state: import
   target: "{{ item }}"
   loop:
   - /app/db/schema.sql
